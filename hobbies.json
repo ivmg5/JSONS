@@ -1,0 +1,5 @@
+[
+    {"name": "Reading", "picture": "https://raw.githubusercontent.com/ivmg5/jsons/main/reading.png"},
+    {"name": "Cooking", "picture": "https://raw.githubusercontent.com/ivmg5/jsons/main/cooking.png"},
+    {"name": "Hiking", "picture": "https://raw.githubusercontent.com/ivmg5/jsons/main/hiking.png"}
+]
